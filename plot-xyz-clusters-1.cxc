@@ -1,0 +1,1160 @@
+#*******clust_no====>2<=====****#
+
+measure center #10 & sidechain & :650  mark true name 2-FGFR3-650-219 radius +2.3
+
+measure center #9 & sidechain & :659  mark true name 2-FGFR2-659-50 radius +1.7
+
+measure center #17 & sidechain & :558  mark true name 2-KIT-558-29 radius +1.5
+
+measure center #22 & sidechain & :746  mark true name 2-NTRK3-746-15 radius +1.2
+
+measure center #17 & sidechain & :568  mark true name 2-KIT-568-11 radius +1.0
+
+measure center #22 & sidechain & :745  mark true name 2-NTRK3-745-10 radius +1.0
+
+measure center #20 & sidechain & :702  mark true name 2-NTRK1-702-8 radius +0.9
+
+measure center #17 & sidechain & :567  mark true name 2-KIT-567-7 radius +0.8
+
+measure center #24 & sidechain & :904  mark true name 2-RET-904-7 radius +0.8
+
+measure center #18 & sidechain & :722  mark true name 2-MERTK-722-6 radius +0.8
+
+measure center #22 & sidechain & :678  mark true name 2-NTRK3-678-5 radius +0.7
+
+measure center #9 & sidechain & :678  mark true name 2-FGFR2-678-4 radius +0.6
+
+measure center #13 & sidechain & :577  mark true name 2-FLT3-577-4 radius +0.6
+
+measure center #20 & sidechain & :649  mark true name 2-NTRK1-649-4 radius +0.6
+
+measure center #24 & sidechain & :873  mark true name 2-RET-873-4 radius +0.6
+
+measure center #25 & sidechain & :990  mark true name 2-TIE2-990-4 radius +0.6
+
+measure center #8 & sidechain & :675  mark true name 2-FGFR1-675-3 radius +0.5
+
+measure center #10 & sidechain & :669  mark true name 2-FGFR3-669-3 radius +0.5
+
+measure center #13 & sidechain & :589  mark true name 2-FLT3-589-3 radius +0.5
+
+measure center #13 & sidechain & :591  mark true name 2-FLT3-591-3 radius +0.5
+
+measure center #17 & sidechain & :844  mark true name 2-KIT-844-3 radius +0.5
+
+measure center #17 & sidechain & :845  mark true name 2-KIT-845-3 radius +0.5
+
+measure center #22 & sidechain & :747  mark true name 2-NTRK3-747-3 radius +0.5
+
+measure center #23 & sidechain & :571  mark true name 2-PGFRA-571-3 radius +0.5
+
+measure center #24 & sidechain & :897  mark true name 2-RET-897-3 radius +0.5
+
+measure center #7 & sidechain & :767  mark true name 2-EPHB4-767-2 radius +0.3
+
+measure center #7 & sidechain & :795  mark true name 2-EPHB4-795-2 radius +0.3
+
+measure center #9 & sidechain & :625  mark true name 2-FGFR2-625-2 radius +0.3
+
+measure center #11 & sidechain & :611  mark true name 2-FGFR4-611-2 radius +0.3
+
+measure center #11 & sidechain & :664  mark true name 2-FGFR4-664-2 radius +0.3
+
+measure center #12 & sidechain & :807  mark true name 2-FLT1-807-2 radius +0.3
+
+measure center #15 & sidechain & :1211  mark true name 2-INSR-1211-2 radius +0.3
+
+measure center #16 & sidechain & :815  mark true name 2-KDR-815-2 radius +0.3
+
+measure center #17 & sidechain & :846  mark true name 2-KIT-846-2 radius +0.3
+
+measure center #20 & sidechain & :488  mark true name 2-NTRK1-488-2 radius +0.3
+
+measure center #20 & sidechain & :489  mark true name 2-NTRK1-489-2 radius +0.3
+
+measure center #20 & sidechain & :703  mark true name 2-NTRK1-703-2 radius +0.3
+
+measure center #21 & sidechain & :675  mark true name 2-NTRK2-675-2 radius +0.3
+
+measure center #21 & sidechain & :726  mark true name 2-NTRK2-726-2 radius +0.3
+
+measure center #23 & sidechain & :560  mark true name 2-PGFRA-560-2 radius +0.3
+
+measure center #23 & sidechain & :817  mark true name 2-PGFRA-817-2 radius +0.3
+
+measure center #24 & sidechain & :905  mark true name 2-RET-905-2 radius +0.3
+
+measure center #24 & sidechain & :906  mark true name 2-RET-906-2 radius +0.3
+
+measure center #24 & sidechain & :907  mark true name 2-RET-907-2 radius +0.3
+
+measure center #24 & sidechain & :924  mark true name 2-RET-924-2 radius +0.3
+
+measure center #24 & sidechain & :925  mark true name 2-RET-925-2 radius +0.3
+
+measure center #24 & sidechain & :926  mark true name 2-RET-926-2 radius +0.3
+
+measure center #1 & sidechain & :777  mark true name 2-CSF1R-777-1
+
+measure center #1 & sidechain & :829  mark true name 2-CSF1R-829-1
+
+measure center #7 & sidechain & :793  mark true name 2-EPHB4-793-1
+
+measure center #8 & sidechain & :674  mark true name 2-FGFR1-674-1
+
+measure center #9 & sidechain & :655  mark true name 2-FGFR2-655-1
+
+measure center #9 & sidechain & :676  mark true name 2-FGFR2-676-1
+
+measure center #9 & sidechain & :677  mark true name 2-FGFR2-677-1
+
+measure center #9 & sidechain & :679  mark true name 2-FGFR2-679-1
+
+measure center #10 & sidechain & :616  mark true name 2-FGFR3-616-1
+
+measure center #10 & sidechain & :670  mark true name 2-FGFR3-670-1
+
+measure center #11 & sidechain & :663  mark true name 2-FGFR4-663-1
+
+measure center #11 & sidechain & :665  mark true name 2-FGFR4-665-1
+
+measure center #12 & sidechain & :1021  mark true name 2-FLT1-1021-1
+
+measure center #12 & sidechain & :1073  mark true name 2-FLT1-1073-1
+
+measure center #12 & sidechain & :808  mark true name 2-FLT1-808-1
+
+measure center #13 & sidechain & :863  mark true name 2-FLT3-863-1
+
+measure center #13 & sidechain & :865  mark true name 2-FLT3-865-1
+
+measure center #14 & sidechain & :1134  mark true name 2-IGF1R-1134-1
+
+measure center #14 & sidechain & :1226  mark true name 2-IGF1R-1226-1
+
+measure center #16 & sidechain & :1081  mark true name 2-KDR-1081-1
+
+measure center #16 & sidechain & :1082  mark true name 2-KDR-1082-1
+
+measure center #16 & sidechain & :814  mark true name 2-KDR-814-1
+
+measure center #17 & sidechain & :791  mark true name 2-KIT-791-1
+
+measure center #17 & sidechain & :842  mark true name 2-KIT-842-1
+
+measure center #17 & sidechain & :843  mark true name 2-KIT-843-1
+
+measure center #18 & sidechain & :773  mark true name 2-MERTK-773-1
+
+measure center #18 & sidechain & :774  mark true name 2-MERTK-774-1
+
+measure center #20 & sidechain & :701  mark true name 2-NTRK1-701-1
+
+measure center #21 & sidechain & :727  mark true name 2-NTRK2-727-1
+
+measure center #21 & sidechain & :729  mark true name 2-NTRK2-729-1
+
+measure center #21 & sidechain & :730  mark true name 2-NTRK2-730-1
+
+measure center #22 & sidechain & :744  mark true name 2-NTRK3-744-1
+
+measure center #23 & sidechain & :572  mark true name 2-PGFRA-572-1
+
+measure center #23 & sidechain & :869  mark true name 2-PGFRA-869-1
+
+measure center #23 & sidechain & :870  mark true name 2-PGFRA-870-1
+
+measure center #23 & sidechain & :871  mark true name 2-PGFRA-871-1
+
+measure center #24 & sidechain & :908  mark true name 2-RET-908-1
+
+measure center #25 & sidechain & :1012  mark true name 2-TIE2-1012-1
+
+measure center #25 & sidechain & :1014  mark true name 2-TIE2-1014-1
+
+measure center #25 & sidechain & :1015  mark true name 2-TIE2-1015-1
+
+#*******clust_no====>4<=====****#
+
+measure center #17 & sidechain & :654  mark true name 4-KIT-654-299 radius +2.5
+
+measure center #9 & sidechain & :549  mark true name 4-FGFR2-549-146 radius +2.2
+
+measure center #8 & sidechain & :546  mark true name 4-FGFR1-546-69 radius +1.8
+
+measure center #13 & sidechain & :676  mark true name 4-FLT3-676-54 radius +1.7
+
+measure center #23 & sidechain & :659  mark true name 4-PGFRA-659-49 radius +1.7
+
+measure center #11 & sidechain & :535  mark true name 4-FGFR4-535-24 radius +1.4
+
+measure center #17 & sidechain & :655  mark true name 4-KIT-655-16 radius +1.2
+
+measure center #9 & sidechain & :565  mark true name 4-FGFR2-565-13 radius +1.1
+
+measure center #9 & sidechain & :641  mark true name 4-FGFR2-641-13 radius +1.1
+
+measure center #21 & sidechain & :660  mark true name 4-NTRK2-660-5 radius +0.7
+
+measure center #21 & sidechain & :691  mark true name 4-NTRK2-691-5 radius +0.7
+
+measure center #21 & sidechain & :692  mark true name 4-NTRK2-692-5 radius +0.7
+
+measure center #9 & sidechain & :547  mark true name 4-FGFR2-547-4 radius +0.6
+
+measure center #9 & sidechain & :613  mark true name 4-FGFR2-613-4 radius +0.6
+
+measure center #12 & sidechain & :891  mark true name 4-FLT1-891-4 radius +0.6
+
+measure center #22 & sidechain & :602  mark true name 4-NTRK3-602-4 radius +0.6
+
+measure center #22 & sidechain & :663  mark true name 4-NTRK3-663-4 radius +0.6
+
+measure center #22 & sidechain & :695  mark true name 4-NTRK3-695-4 radius +0.6
+
+measure center #9 & sidechain & :544  mark true name 4-FGFR2-544-3 radius +0.5
+
+measure center #13 & sidechain & :798  mark true name 4-FLT3-798-3 radius +0.5
+
+measure center #16 & sidechain & :1015  mark true name 4-KDR-1015-3 radius +0.5
+
+measure center #17 & sidechain & :779  mark true name 4-KIT-779-3 radius +0.5
+
+measure center #21 & sidechain & :618  mark true name 4-NTRK2-618-3 radius +0.5
+
+measure center #1 & sidechain & :664  mark true name 4-CSF1R-664-2 radius +0.3
+
+measure center #1 & sidechain & :765  mark true name 4-CSF1R-765-2 radius +0.3
+
+measure center #8 & sidechain & :544  mark true name 4-FGFR1-544-2 radius +0.3
+
+measure center #10 & sidechain & :538  mark true name 4-FGFR3-538-2 radius +0.3
+
+measure center #12 & sidechain & :887  mark true name 4-FLT1-887-2 radius +0.3
+
+measure center #13 & sidechain & :674  mark true name 4-FLT3-674-2 radius +0.3
+
+measure center #13 & sidechain & :675  mark true name 4-FLT3-675-2 radius +0.3
+
+measure center #13 & sidechain & :692  mark true name 4-FLT3-692-2 radius +0.3
+
+measure center #13 & sidechain & :795  mark true name 4-FLT3-795-2 radius +0.3
+
+measure center #14 & sidechain & :1151  mark true name 4-IGF1R-1151-2 radius +0.3
+
+measure center #15 & sidechain & :1086  mark true name 4-INSR-1086-2 radius +0.3
+
+measure center #16 & sidechain & :1012  mark true name 4-KDR-1012-2 radius +0.3
+
+measure center #16 & sidechain & :898  mark true name 4-KDR-898-2 radius +0.3
+
+measure center #17 & sidechain & :653  mark true name 4-KIT-653-2 radius +0.3
+
+measure center #17 & sidechain & :807  mark true name 4-KIT-807-2 radius +0.3
+
+measure center #20 & sidechain & :574  mark true name 4-NTRK1-574-2 radius +0.3
+
+measure center #20 & sidechain & :637  mark true name 4-NTRK1-637-2 radius +0.3
+
+measure center #21 & sidechain & :600  mark true name 4-NTRK2-600-2 radius +0.3
+
+measure center #22 & sidechain & :666  mark true name 4-NTRK3-666-2 radius +0.3
+
+measure center #22 & sidechain & :669  mark true name 4-NTRK3-669-2 radius +0.3
+
+measure center #22 & sidechain & :694  mark true name 4-NTRK3-694-2 radius +0.3
+
+measure center #23 & sidechain & :675  mark true name 4-PGFRA-675-2 radius +0.3
+
+measure center #23 & sidechain & :805  mark true name 4-PGFRA-805-2 radius +0.3
+
+measure center #23 & sidechain & :808  mark true name 4-PGFRA-808-2 radius +0.3
+
+measure center #24 & sidechain & :784  mark true name 4-RET-784-2 radius +0.3
+
+measure center #24 & sidechain & :789  mark true name 4-RET-789-2 radius +0.3
+
+measure center #25 & sidechain & :948  mark true name 4-TIE2-948-2 radius +0.3
+
+measure center #2 & sidechain & :681  mark true name 4-DDR1-681-1
+
+measure center #2 & sidechain & :685  mark true name 4-DDR1-685-1
+
+measure center #2 & sidechain & :753  mark true name 4-DDR1-753-1
+
+measure center #2 & sidechain & :781  mark true name 4-DDR1-781-1
+
+measure center #7 & sidechain & :673  mark true name 4-EPHB4-673-1
+
+measure center #7 & sidechain & :678  mark true name 4-EPHB4-678-1
+
+measure center #8 & sidechain & :610  mark true name 4-FGFR1-610-1
+
+measure center #9 & sidechain & :616  mark true name 4-FGFR2-616-1
+
+measure center #9 & sidechain & :642  mark true name 4-FGFR2-642-1
+
+measure center #10 & sidechain & :540  mark true name 4-FGFR3-540-1
+
+measure center #10 & sidechain & :601  mark true name 4-FGFR3-601-1
+
+measure center #10 & sidechain & :633  mark true name 4-FGFR3-633-1
+
+measure center #12 & sidechain & :892  mark true name 4-FLT1-892-1
+
+measure center #12 & sidechain & :893  mark true name 4-FLT1-893-1
+
+measure center #13 & sidechain & :671  mark true name 4-FLT3-671-1
+
+measure center #13 & sidechain & :801  mark true name 4-FLT3-801-1
+
+measure center #14 & sidechain & :1150  mark true name 4-IGF1R-1150-1
+
+measure center #16 & sidechain & :1044  mark true name 4-KDR-1044-1
+
+measure center #16 & sidechain & :895  mark true name 4-KDR-895-1
+
+measure center #16 & sidechain & :899  mark true name 4-KDR-899-1
+
+measure center #16 & sidechain & :900  mark true name 4-KDR-900-1
+
+measure center #17 & sidechain & :671  mark true name 4-KIT-671-1
+
+measure center #18 & sidechain & :672  mark true name 4-MERTK-672-1
+
+measure center #18 & sidechain & :713  mark true name 4-MERTK-713-1
+
+measure center #20 & sidechain & :572  mark true name 4-NTRK1-572-1
+
+measure center #20 & sidechain & :640  mark true name 4-NTRK1-640-1
+
+measure center #20 & sidechain & :666  mark true name 4-NTRK1-666-1
+
+measure center #21 & sidechain & :663  mark true name 4-NTRK2-663-1
+
+measure center #21 & sidechain & :666  mark true name 4-NTRK2-666-1
+
+measure center #23 & sidechain & :658  mark true name 4-PGFRA-658-1
+
+measure center #23 & sidechain & :834  mark true name 4-PGFRA-834-1
+
+measure center #24 & sidechain & :788  mark true name 4-RET-788-1
+
+measure center #24 & sidechain & :858  mark true name 4-RET-858-1
+
+measure center #24 & sidechain & :861  mark true name 4-RET-861-1
+
+measure center #25 & sidechain & :882  mark true name 4-TIE2-882-1
+
+measure center #25 & sidechain & :886  mark true name 4-TIE2-886-1
+
+measure center #25 & sidechain & :979  mark true name 4-TIE2-979-1
+
+#*******clust_no====>5<=====****#
+
+measure center #24 & sidechain & :918  mark true name 5-RET-918-852 radius +2.9
+
+measure center #22 & sidechain & :735  mark true name 5-NTRK3-735-13 radius +1.1
+
+measure center #9 & sidechain & :708  mark true name 5-FGFR2-708-8 radius +0.9
+
+measure center #20 & sidechain & :692  mark true name 5-NTRK1-692-8 radius +0.9
+
+measure center #25 & sidechain & :1003  mark true name 5-TIE2-1003-8 radius +0.9
+
+measure center #8 & sidechain & :664  mark true name 5-FGFR1-664-7 radius +0.8
+
+measure center #23 & sidechain & :859  mark true name 5-PGFRA-859-7 radius +0.8
+
+measure center #17 & sidechain & :874  mark true name 5-KIT-874-6 radius +0.8
+
+measure center #10 & sidechain & :699  mark true name 5-FGFR3-699-5 radius +0.7
+
+measure center #11 & sidechain & :694  mark true name 5-FGFR4-694-5 radius +0.7
+
+measure center #22 & sidechain & :777  mark true name 5-NTRK3-777-5 radius +0.7
+
+measure center #9 & sidechain & :666  mark true name 5-FGFR2-666-4 radius +0.6
+
+measure center #13 & sidechain & :893  mark true name 5-FLT3-893-4 radius +0.6
+
+measure center #17 & sidechain & :836  mark true name 5-KIT-836-4 radius +0.6
+
+measure center #22 & sidechain & :778  mark true name 5-NTRK3-778-4 radius +0.6
+
+measure center #24 & sidechain & :923  mark true name 5-RET-923-4 radius +0.6
+
+measure center #24 & sidechain & :959  mark true name 5-RET-959-4 radius +0.6
+
+measure center #8 & sidechain & :665  mark true name 5-FGFR1-665-3 radius +0.5
+
+measure center #13 & sidechain & :843  mark true name 5-FLT3-843-3 radius +0.5
+
+measure center #13 & sidechain & :895  mark true name 5-FLT3-895-3 radius +0.5
+
+measure center #17 & sidechain & :833  mark true name 5-KIT-833-3 radius +0.5
+
+measure center #21 & sidechain & :716  mark true name 5-NTRK2-716-3 radius +0.5
+
+measure center #8 & sidechain & :708  mark true name 5-FGFR1-708-2 radius +0.3
+
+measure center #9 & sidechain & :709  mark true name 5-FGFR2-709-2 radius +0.3
+
+measure center #9 & sidechain & :710  mark true name 5-FGFR2-710-2 radius +0.3
+
+measure center #9 & sidechain & :711  mark true name 5-FGFR2-711-2 radius +0.3
+
+measure center #11 & sidechain & :652  mark true name 5-FGFR4-652-2 radius +0.3
+
+measure center #11 & sidechain & :697  mark true name 5-FGFR4-697-2 radius +0.3
+
+measure center #12 & sidechain & :1062  mark true name 5-FLT1-1062-2 radius +0.3
+
+measure center #12 & sidechain & :1071  mark true name 5-FLT1-1071-2 radius +0.3
+
+measure center #12 & sidechain & :1104  mark true name 5-FLT1-1104-2 radius +0.3
+
+measure center #12 & sidechain & :1106  mark true name 5-FLT1-1106-2 radius +0.3
+
+measure center #13 & sidechain & :860  mark true name 5-FLT3-860-2 radius +0.3
+
+measure center #14 & sidechain & :1177  mark true name 5-IGF1R-1177-2 radius +0.3
+
+measure center #15 & sidechain & :1241  mark true name 5-INSR-1241-2 radius +0.3
+
+measure center #16 & sidechain & :1072  mark true name 5-KDR-1072-2 radius +0.3
+
+measure center #16 & sidechain & :1077  mark true name 5-KDR-1077-2 radius +0.3
+
+measure center #17 & sidechain & :824  mark true name 5-KIT-824-2 radius +0.3
+
+measure center #20 & sidechain & :690  mark true name 5-NTRK1-690-2 radius +0.3
+
+measure center #20 & sidechain & :735  mark true name 5-NTRK1-735-2 radius +0.3
+
+measure center #21 & sidechain & :717  mark true name 5-NTRK2-717-2 radius +0.3
+
+measure center #21 & sidechain & :720  mark true name 5-NTRK2-720-2 radius +0.3
+
+measure center #21 & sidechain & :725  mark true name 5-NTRK2-725-2 radius +0.3
+
+measure center #21 & sidechain & :760  mark true name 5-NTRK2-760-2 radius +0.3
+
+measure center #21 & sidechain & :763  mark true name 5-NTRK2-763-2 radius +0.3
+
+measure center #22 & sidechain & :742  mark true name 5-NTRK3-742-2 radius +0.3
+
+measure center #1 & sidechain & :810  mark true name 5-CSF1R-810-1
+
+measure center #1 & sidechain & :827  mark true name 5-CSF1R-827-1
+
+measure center #1 & sidechain & :860  mark true name 5-CSF1R-860-1
+
+measure center #1 & sidechain & :862  mark true name 5-CSF1R-862-1
+
+measure center #1 & sidechain & :866  mark true name 5-CSF1R-866-1
+
+measure center #2 & sidechain & :806  mark true name 5-DDR1-806-1
+
+measure center #2 & sidechain & :807  mark true name 5-DDR1-807-1
+
+measure center #2 & sidechain & :808  mark true name 5-DDR1-808-1
+
+measure center #2 & sidechain & :810  mark true name 5-DDR1-810-1
+
+measure center #7 & sidechain & :792  mark true name 5-EPHB4-792-1
+
+measure center #7 & sidechain & :830  mark true name 5-EPHB4-830-1
+
+measure center #8 & sidechain & :706  mark true name 5-FGFR1-706-1
+
+measure center #8 & sidechain & :707  mark true name 5-FGFR1-707-1
+
+measure center #9 & sidechain & :667  mark true name 5-FGFR2-667-1
+
+measure center #9 & sidechain & :668  mark true name 5-FGFR2-668-1
+
+measure center #10 & sidechain & :657  mark true name 5-FGFR3-657-1
+
+measure center #10 & sidechain & :666  mark true name 5-FGFR3-666-1
+
+measure center #10 & sidechain & :703  mark true name 5-FGFR3-703-1
+
+measure center #11 & sidechain & :695  mark true name 5-FGFR4-695-1
+
+measure center #12 & sidechain & :1063  mark true name 5-FLT1-1063-1
+
+measure center #12 & sidechain & :1066  mark true name 5-FLT1-1066-1
+
+measure center #12 & sidechain & :1105  mark true name 5-FLT1-1105-1
+
+measure center #12 & sidechain & :1109  mark true name 5-FLT1-1109-1
+
+measure center #13 & sidechain & :853  mark true name 5-FLT3-853-1
+
+measure center #13 & sidechain & :855  mark true name 5-FLT3-855-1
+
+measure center #13 & sidechain & :894  mark true name 5-FLT3-894-1
+
+measure center #14 & sidechain & :1176  mark true name 5-IGF1R-1176-1
+
+measure center #14 & sidechain & :1218  mark true name 5-IGF1R-1218-1
+
+measure center #14 & sidechain & :1219  mark true name 5-IGF1R-1219-1
+
+measure center #14 & sidechain & :1221  mark true name 5-IGF1R-1221-1
+
+measure center #14 & sidechain & :1222  mark true name 5-IGF1R-1222-1
+
+measure center #14 & sidechain & :1225  mark true name 5-IGF1R-1225-1
+
+measure center #15 & sidechain & :1190  mark true name 5-INSR-1190-1
+
+measure center #15 & sidechain & :1199  mark true name 5-INSR-1199-1
+
+measure center #15 & sidechain & :1201  mark true name 5-INSR-1201-1
+
+measure center #15 & sidechain & :1203  mark true name 5-INSR-1203-1
+
+measure center #16 & sidechain & :1110  mark true name 5-KDR-1110-1
+
+measure center #16 & sidechain & :1111  mark true name 5-KDR-1111-1
+
+measure center #16 & sidechain & :1112  mark true name 5-KDR-1112-1
+
+measure center #17 & sidechain & :841  mark true name 5-KIT-841-1
+
+measure center #17 & sidechain & :876  mark true name 5-KIT-876-1
+
+measure center #17 & sidechain & :879  mark true name 5-KIT-879-1
+
+measure center #18 & sidechain & :767  mark true name 5-MERTK-767-1
+
+measure center #18 & sidechain & :807  mark true name 5-MERTK-807-1
+
+measure center #21 & sidechain & :761  mark true name 5-NTRK2-761-1
+
+measure center #21 & sidechain & :762  mark true name 5-NTRK2-762-1
+
+measure center #22 & sidechain & :710  mark true name 5-NTRK3-710-1
+
+measure center #22 & sidechain & :733  mark true name 5-NTRK3-733-1
+
+measure center #22 & sidechain & :737  mark true name 5-NTRK3-737-1
+
+measure center #22 & sidechain & :779  mark true name 5-NTRK3-779-1
+
+measure center #22 & sidechain & :783  mark true name 5-NTRK3-783-1
+
+measure center #23 & sidechain & :902  mark true name 5-PGFRA-902-1
+
+measure center #24 & sidechain & :914  mark true name 5-RET-914-1
+
+measure center #24 & sidechain & :956  mark true name 5-RET-956-1
+
+measure center #24 & sidechain & :957  mark true name 5-RET-957-1
+
+measure center #25 & sidechain & :1048  mark true name 5-TIE2-1048-1
+
+#*******clust_no====>12<=====****#
+
+measure center #17 & sidechain & :825  mark true name 12-KIT-825-31 radius +1.5
+
+measure center #17 & sidechain & :829  mark true name 12-KIT-829-28 radius +1.4
+
+measure center #23 & sidechain & :849  mark true name 12-PGFRA-849-13 radius +1.1
+
+measure center #16 & sidechain & :1066  mark true name 12-KDR-1066-11 radius +1.0
+
+measure center #13 & sidechain & :842  mark true name 12-FLT3-842-9 radius +1.0
+
+measure center #16 & sidechain & :1065  mark true name 12-KDR-1065-8 radius +0.9
+
+measure center #16 & sidechain & :1063  mark true name 12-KDR-1063-5 radius +0.7
+
+measure center #17 & sidechain & :817  mark true name 12-KIT-817-5 radius +0.7
+
+measure center #23 & sidechain & :851  mark true name 12-PGFRA-851-5 radius +0.7
+
+measure center #13 & sidechain & :845  mark true name 12-FLT3-845-4 radius +0.6
+
+measure center #20 & sidechain & :682  mark true name 12-NTRK1-682-4 radius +0.6
+
+measure center #22 & sidechain & :729  mark true name 12-NTRK3-729-4 radius +0.6
+
+measure center #10 & sidechain & :651  mark true name 12-FGFR3-651-3 radius +0.5
+
+measure center #12 & sidechain & :1055  mark true name 12-FLT1-1055-3 radius +0.5
+
+measure center #14 & sidechain & :1167  mark true name 12-IGF1R-1167-3 radius +0.5
+
+measure center #15 & sidechain & :1191  mark true name 12-INSR-1191-3 radius +0.5
+
+measure center #17 & sidechain & :827  mark true name 12-KIT-827-3 radius +0.5
+
+measure center #21 & sidechain & :715  mark true name 12-NTRK2-715-3 radius +0.5
+
+measure center #1 & sidechain & :816  mark true name 12-CSF1R-816-2 radius +0.3
+
+measure center #10 & sidechain & :652  mark true name 12-FGFR3-652-2 radius +0.3
+
+measure center #10 & sidechain & :653  mark true name 12-FGFR3-653-2 radius +0.3
+
+measure center #10 & sidechain & :655  mark true name 12-FGFR3-655-2 radius +0.3
+
+measure center #12 & sidechain & :1061  mark true name 12-FLT1-1061-2 radius +0.3
+
+measure center #13 & sidechain & :849  mark true name 12-FLT3-849-2 radius +0.3
+
+measure center #16 & sidechain & :1064  mark true name 12-KDR-1064-2 radius +0.3
+
+measure center #17 & sidechain & :826  mark true name 12-KIT-826-2 radius +0.3
+
+measure center #17 & sidechain & :831  mark true name 12-KIT-831-2 radius +0.3
+
+measure center #20 & sidechain & :683  mark true name 12-NTRK1-683-2 radius +0.3
+
+measure center #21 & sidechain & :709  mark true name 12-NTRK2-709-2 radius +0.3
+
+measure center #23 & sidechain & :856  mark true name 12-PGFRA-856-2 radius +0.3
+
+measure center #1 & sidechain & :811  mark true name 12-CSF1R-811-1
+
+measure center #1 & sidechain & :813  mark true name 12-CSF1R-813-1
+
+measure center #2 & sidechain & :800  mark true name 12-DDR1-800-1
+
+measure center #2 & sidechain & :804  mark true name 12-DDR1-804-1
+
+measure center #7 & sidechain & :781  mark true name 12-EPHB4-781-1
+
+measure center #13 & sidechain & :846  mark true name 12-FLT3-846-1
+
+measure center #13 & sidechain & :847  mark true name 12-FLT3-847-1
+
+measure center #13 & sidechain & :848  mark true name 12-FLT3-848-1
+
+measure center #16 & sidechain & :1053  mark true name 12-KDR-1053-1
+
+measure center #17 & sidechain & :830  mark true name 12-KIT-830-1
+
+measure center #20 & sidechain & :673  mark true name 12-NTRK1-673-1
+
+measure center #20 & sidechain & :684  mark true name 12-NTRK1-684-1
+
+measure center #20 & sidechain & :685  mark true name 12-NTRK1-685-1
+
+measure center #21 & sidechain & :700  mark true name 12-NTRK2-700-1
+
+measure center #21 & sidechain & :706  mark true name 12-NTRK2-706-1
+
+measure center #21 & sidechain & :712  mark true name 12-NTRK2-712-1
+
+measure center #21 & sidechain & :713  mark true name 12-NTRK2-713-1
+
+measure center #22 & sidechain & :700  mark true name 12-NTRK3-700-1
+
+measure center #22 & sidechain & :709  mark true name 12-NTRK3-709-1
+
+measure center #22 & sidechain & :711  mark true name 12-NTRK3-711-1
+
+measure center #22 & sidechain & :712  mark true name 12-NTRK3-712-1
+
+measure center #22 & sidechain & :730  mark true name 12-NTRK3-730-1
+
+measure center #22 & sidechain & :732  mark true name 12-NTRK3-732-1
+
+measure center #23 & sidechain & :843  mark true name 12-PGFRA-843-1
+
+measure center #23 & sidechain & :853  mark true name 12-PGFRA-853-1
+
+measure center #23 & sidechain & :857  mark true name 12-PGFRA-857-1
+
+measure center #24 & sidechain & :911  mark true name 12-RET-911-1
+
+measure center #25 & sidechain & :999  mark true name 12-TIE2-999-1
+
+#*******clust_no====>17<=====****#
+
+measure center #17 & sidechain & :559  mark true name 17-KIT-559-451 radius +2.7
+
+measure center #17 & sidechain & :560  mark true name 17-KIT-560-280 radius +2.4
+
+measure center #23 & sidechain & :561  mark true name 17-PGFRA-561-68 radius +1.8
+
+measure center #13 & sidechain & :592  mark true name 17-FLT3-592-18 radius +1.3
+
+measure center #17 & sidechain & :561  mark true name 17-KIT-561-15 radius +1.2
+
+measure center #17 & sidechain & :562  mark true name 17-KIT-562-13 radius +1.1
+
+measure center #17 & sidechain & :565  mark true name 17-KIT-565-11 radius +1.0
+
+measure center #17 & sidechain & :566  mark true name 17-KIT-566-9 radius +1.0
+
+measure center #17 & sidechain & :569  mark true name 17-KIT-569-8 radius +0.9
+
+measure center #10 & sidechain & :641  mark true name 17-FGFR3-641-5 radius +0.7
+
+measure center #13 & sidechain & :578  mark true name 17-FLT3-578-5 radius +0.7
+
+measure center #13 & sidechain & :583  mark true name 17-FLT3-583-5 radius +0.7
+
+measure center #17 & sidechain & :564  mark true name 17-KIT-564-5 radius +0.7
+
+measure center #17 & sidechain & :571  mark true name 17-KIT-571-5 radius +0.7
+
+measure center #23 & sidechain & :567  mark true name 17-PGFRA-567-5 radius +0.7
+
+measure center #9 & sidechain & :650  mark true name 17-FGFR2-650-4 radius +0.6
+
+measure center #10 & sidechain & :644  mark true name 17-FGFR3-644-4 radius +0.6
+
+measure center #13 & sidechain & :579  mark true name 17-FLT3-579-4 radius +0.6
+
+measure center #13 & sidechain & :588  mark true name 17-FLT3-588-4 radius +0.6
+
+measure center #1 & sidechain & :554  mark true name 17-CSF1R-554-3 radius +0.5
+
+measure center #10 & sidechain & :643  mark true name 17-FGFR3-643-3 radius +0.5
+
+measure center #10 & sidechain & :646  mark true name 17-FGFR3-646-3 radius +0.5
+
+measure center #12 & sidechain & :809  mark true name 17-FLT1-809-3 radius +0.5
+
+measure center #13 & sidechain & :806  mark true name 17-FLT3-806-3 radius +0.5
+
+measure center #16 & sidechain & :808  mark true name 17-KDR-808-3 radius +0.5
+
+measure center #17 & sidechain & :563  mark true name 17-KIT-563-3 radius +0.5
+
+measure center #23 & sidechain & :563  mark true name 17-PGFRA-563-3 radius +0.5
+
+measure center #23 & sidechain & :570  mark true name 17-PGFRA-570-3 radius +0.5
+
+measure center #24 & sidechain & :901  mark true name 17-RET-901-3 radius +0.5
+
+measure center #24 & sidechain & :903  mark true name 17-RET-903-3 radius +0.5
+
+measure center #25 & sidechain & :988  mark true name 17-TIE2-988-3 radius +0.5
+
+measure center #2 & sidechain & :761  mark true name 17-DDR1-761-2 radius +0.3
+
+measure center #13 & sidechain & :580  mark true name 17-FLT3-580-2 radius +0.3
+
+measure center #13 & sidechain & :584  mark true name 17-FLT3-584-2 radius +0.3
+
+measure center #13 & sidechain & :590  mark true name 17-FLT3-590-2 radius +0.3
+
+measure center #17 & sidechain & :570  mark true name 17-KIT-570-2 radius +0.3
+
+measure center #23 & sidechain & :564  mark true name 17-PGFRA-564-2 radius +0.3
+
+measure center #23 & sidechain & :569  mark true name 17-PGFRA-569-2 radius +0.3
+
+measure center #1 & sidechain & :557  mark true name 17-CSF1R-557-1
+
+measure center #1 & sidechain & :565  mark true name 17-CSF1R-565-1
+
+measure center #7 & sidechain & :735  mark true name 17-EPHB4-735-1
+
+measure center #8 & sidechain & :618  mark true name 17-FGFR1-618-1
+
+measure center #9 & sidechain & :652  mark true name 17-FGFR2-652-1
+
+measure center #9 & sidechain & :654  mark true name 17-FGFR2-654-1
+
+measure center #10 & sidechain & :642  mark true name 17-FGFR3-642-1
+
+measure center #10 & sidechain & :645  mark true name 17-FGFR3-645-1
+
+measure center #12 & sidechain & :1017  mark true name 17-FLT1-1017-1
+
+measure center #12 & sidechain & :803  mark true name 17-FLT1-803-1
+
+measure center #13 & sidechain & :581  mark true name 17-FLT3-581-1
+
+measure center #13 & sidechain & :582  mark true name 17-FLT3-582-1
+
+measure center #16 & sidechain & :1023  mark true name 17-KDR-1023-1
+
+measure center #16 & sidechain & :812  mark true name 17-KDR-812-1
+
+measure center #16 & sidechain & :816  mark true name 17-KDR-816-1
+
+measure center #18 & sidechain & :718  mark true name 17-MERTK-718-1
+
+measure center #20 & sidechain & :645  mark true name 17-NTRK1-645-1
+
+measure center #22 & sidechain & :674  mark true name 17-NTRK3-674-1
+
+measure center #23 & sidechain & :562  mark true name 17-PGFRA-562-1
+
+measure center #23 & sidechain & :565  mark true name 17-PGFRA-565-1
+
+measure center #23 & sidechain & :566  mark true name 17-PGFRA-566-1
+
+measure center #23 & sidechain & :568  mark true name 17-PGFRA-568-1
+
+measure center #24 & sidechain & :899  mark true name 17-RET-899-1
+
+measure center #24 & sidechain & :902  mark true name 17-RET-902-1
+
+#*******clust_no====>21<=====****#
+
+measure center #17 & sidechain & :576  mark true name 21-KIT-576-283 radius +2.5
+
+measure center #17 & sidechain & :642  mark true name 21-KIT-642-171 radius +2.2
+
+measure center #17 & sidechain & :572  mark true name 21-KIT-572-17 radius +1.2
+
+measure center #17 & sidechain & :577  mark true name 21-KIT-577-15 radius +1.2
+
+measure center #13 & sidechain & :594  mark true name 21-FLT3-594-12 radius +1.1
+
+measure center #17 & sidechain & :573  mark true name 21-KIT-573-12 radius +1.1
+
+measure center #13 & sidechain & :663  mark true name 21-FLT3-663-10 radius +1.0
+
+measure center #12 & sidechain & :812  mark true name 21-FLT1-812-7 radius +0.8
+
+measure center #23 & sidechain & :577  mark true name 21-PGFRA-577-5 radius +0.7
+
+measure center #13 & sidechain & :597  mark true name 21-FLT3-597-4 radius +0.6
+
+measure center #17 & sidechain & :574  mark true name 21-KIT-574-4 radius +0.6
+
+measure center #23 & sidechain & :646  mark true name 21-PGFRA-646-4 radius +0.6
+
+measure center #1 & sidechain & :567  mark true name 21-CSF1R-567-3 radius +0.5
+
+measure center #13 & sidechain & :593  mark true name 21-FLT3-593-3 radius +0.5
+
+measure center #17 & sidechain & :639  mark true name 21-KIT-639-3 radius +0.5
+
+measure center #17 & sidechain & :646  mark true name 21-KIT-646-3 radius +0.5
+
+measure center #22 & sidechain & :590  mark true name 21-NTRK3-590-3 radius +0.5
+
+measure center #24 & sidechain & :781  mark true name 21-RET-781-3 radius +0.5
+
+measure center #12 & sidechain & :811  mark true name 21-FLT1-811-2 radius +0.3
+
+measure center #12 & sidechain & :814  mark true name 21-FLT1-814-2 radius +0.3
+
+measure center #16 & sidechain & :821  mark true name 21-KDR-821-2 radius +0.3
+
+measure center #16 & sidechain & :891  mark true name 21-KDR-891-2 radius +0.3
+
+measure center #21 & sidechain & :528  mark true name 21-NTRK2-528-2 radius +0.3
+
+measure center #23 & sidechain & :580  mark true name 21-PGFRA-580-2 radius +0.3
+
+measure center #23 & sidechain & :581  mark true name 21-PGFRA-581-2 radius +0.3
+
+measure center #1 & sidechain & :566  mark true name 21-CSF1R-566-1
+
+measure center #1 & sidechain & :570  mark true name 21-CSF1R-570-1
+
+measure center #1 & sidechain & :632  mark true name 21-CSF1R-632-1
+
+measure center #1 & sidechain & :639  mark true name 21-CSF1R-639-1
+
+measure center #2 & sidechain & :678  mark true name 21-DDR1-678-1
+
+measure center #8 & sidechain & :537  mark true name 21-FGFR1-537-1
+
+measure center #9 & sidechain & :540  mark true name 21-FGFR2-540-1
+
+measure center #11 & sidechain & :522  mark true name 21-FGFR4-522-1
+
+measure center #12 & sidechain & :884  mark true name 21-FLT1-884-1
+
+measure center #13 & sidechain & :596  mark true name 21-FLT3-596-1
+
+measure center #14 & sidechain & :1056  mark true name 21-IGF1R-1056-1
+
+measure center #16 & sidechain & :819  mark true name 21-KDR-819-1
+
+measure center #17 & sidechain & :575  mark true name 21-KIT-575-1
+
+measure center #18 & sidechain & :572  mark true name 21-MERTK-572-1
+
+measure center #20 & sidechain & :566  mark true name 21-NTRK1-566-1
+
+measure center #22 & sidechain & :587  mark true name 21-NTRK3-587-1
+
+measure center #22 & sidechain & :594  mark true name 21-NTRK3-594-1
+
+measure center #23 & sidechain & :576  mark true name 21-PGFRA-576-1
+
+measure center #23 & sidechain & :650  mark true name 21-PGFRA-650-1
+
+measure center #24 & sidechain & :777  mark true name 21-RET-777-1
+
+measure center #25 & sidechain & :871  mark true name 21-TIE2-871-1
+
+#*******clust_no====>26<=====****#
+
+measure center #17 & sidechain & :816  mark true name 26-KIT-816-2171 radius +3.3
+
+measure center #13 & sidechain & :835  mark true name 26-FLT3-835-1489 radius +3.2
+
+measure center #23 & sidechain & :842  mark true name 26-PGFRA-842-637 radius +2.8
+
+measure center #17 & sidechain & :822  mark true name 26-KIT-822-322 radius +2.5
+
+measure center #17 & sidechain & :820  mark true name 26-KIT-820-116 radius +2.1
+
+measure center #13 & sidechain & :839  mark true name 26-FLT3-839-32 radius +1.5
+
+measure center #13 & sidechain & :841  mark true name 26-FLT3-841-28 radius +1.4
+
+measure center #13 & sidechain & :836  mark true name 26-FLT3-836-24 radius +1.4
+
+measure center #23 & sidechain & :846  mark true name 26-PGFRA-846-12 radius +1.1
+
+measure center #13 & sidechain & :837  mark true name 26-FLT3-837-7 radius +0.8
+
+measure center #16 & sidechain & :1052  mark true name 26-KDR-1052-7 radius +0.8
+
+measure center #17 & sidechain & :818  mark true name 26-KIT-818-7 radius +0.8
+
+measure center #12 & sidechain & :1052  mark true name 26-FLT1-1052-6 radius +0.8
+
+measure center #22 & sidechain & :701  mark true name 26-NTRK3-701-6 radius +0.8
+
+measure center #23 & sidechain & :847  mark true name 26-PGFRA-847-6 radius +0.8
+
+measure center #16 & sidechain & :1056  mark true name 26-KDR-1056-4 radius +0.6
+
+measure center #17 & sidechain & :821  mark true name 26-KIT-821-4 radius +0.6
+
+measure center #22 & sidechain & :708  mark true name 26-NTRK3-708-4 radius +0.6
+
+measure center #23 & sidechain & :848  mark true name 26-PGFRA-848-4 radius +0.6
+
+measure center #20 & sidechain & :679  mark true name 26-NTRK1-679-3 radius +0.5
+
+measure center #21 & sidechain & :702  mark true name 26-NTRK2-702-3 radius +0.5
+
+measure center #23 & sidechain & :845  mark true name 26-PGFRA-845-3 radius +0.5
+
+measure center #11 & sidechain & :475  mark true name 26-FGFR4-475-2 radius +0.3
+
+measure center #12 & sidechain & :1051  mark true name 26-FLT1-1051-2 radius +0.3
+
+measure center #13 & sidechain & :838  mark true name 26-FLT3-838-2 radius +0.3
+
+measure center #17 & sidechain & :819  mark true name 26-KIT-819-2 radius +0.3
+
+measure center #22 & sidechain & :704  mark true name 26-NTRK3-704-2 radius +0.3
+
+measure center #22 & sidechain & :705  mark true name 26-NTRK3-705-2 radius +0.3
+
+measure center #22 & sidechain & :707  mark true name 26-NTRK3-707-2 radius +0.3
+
+measure center #23 & sidechain & :844  mark true name 26-PGFRA-844-2 radius +0.3
+
+measure center #2 & sidechain & :793  mark true name 26-DDR1-793-1
+
+measure center #8 & sidechain & :660  mark true name 26-FGFR1-660-1
+
+measure center #12 & sidechain & :1046  mark true name 26-FLT1-1046-1
+
+measure center #12 & sidechain & :1050  mark true name 26-FLT1-1050-1
+
+measure center #13 & sidechain & :840  mark true name 26-FLT3-840-1
+
+measure center #14 & sidechain & :1161  mark true name 26-IGF1R-1161-1
+
+measure center #14 & sidechain & :1162  mark true name 26-IGF1R-1162-1
+
+measure center #14 & sidechain & :1163  mark true name 26-IGF1R-1163-1
+
+measure center #15 & sidechain & :1182  mark true name 26-INSR-1182-1
+
+measure center #15 & sidechain & :1186  mark true name 26-INSR-1186-1
+
+measure center #15 & sidechain & :1187  mark true name 26-INSR-1187-1
+
+measure center #16 & sidechain & :1055  mark true name 26-KDR-1055-1
+
+measure center #16 & sidechain & :1057  mark true name 26-KDR-1057-1
+
+measure center #21 & sidechain & :701  mark true name 26-NTRK2-701-1
+
+#*******clust_no====>28<=====****#
+
+measure center #17 & sidechain & :557  mark true name 28-KIT-557-258 radius +2.4
+
+measure center #13 & sidechain & :576  mark true name 28-FLT3-576-15 radius +1.2
+
+measure center #23 & sidechain & :652  mark true name 28-PGFRA-652-15 radius +1.2
+
+measure center #9 & sidechain & :537  mark true name 28-FGFR2-537-11 radius +1.0
+
+measure center #9 & sidechain & :617  mark true name 28-FGFR2-617-7 radius +0.8
+
+measure center #13 & sidechain & :664  mark true name 28-FLT3-664-6 radius +0.8
+
+measure center #9 & sidechain & :648  mark true name 28-FGFR2-648-5 radius +0.7
+
+measure center #10 & sidechain & :528  mark true name 28-FGFR3-528-5 radius +0.7
+
+measure center #16 & sidechain & :1021  mark true name 28-KDR-1021-5 radius +0.7
+
+measure center #16 & sidechain & :1022  mark true name 28-KDR-1022-5 radius +0.7
+
+measure center #14 & sidechain & :1282  mark true name 28-IGF1R-1282-4 radius +0.6
+
+measure center #17 & sidechain & :647  mark true name 28-KIT-647-4 radius +0.6
+
+measure center #20 & sidechain & :643  mark true name 28-NTRK1-643-4 radius +0.6
+
+measure center #8 & sidechain & :614  mark true name 28-FGFR1-614-3 radius +0.5
+
+measure center #9 & sidechain & :542  mark true name 28-FGFR2-542-3 radius +0.5
+
+measure center #15 & sidechain & :1080  mark true name 28-INSR-1080-3 radius +0.5
+
+measure center #16 & sidechain & :893  mark true name 28-KDR-893-3 radius +0.5
+
+measure center #17 & sidechain & :788  mark true name 28-KIT-788-3 radius +0.5
+
+measure center #21 & sidechain & :667  mark true name 28-NTRK2-667-3 radius +0.5
+
+measure center #21 & sidechain & :670  mark true name 28-NTRK2-670-3 radius +0.5
+
+measure center #25 & sidechain & :955  mark true name 28-TIE2-955-3 radius +0.5
+
+measure center #1 & sidechain & :641  mark true name 28-CSF1R-641-2 radius +0.3
+
+measure center #7 & sidechain & :731  mark true name 28-EPHB4-731-2 radius +0.3
+
+measure center #7 & sidechain & :733  mark true name 28-EPHB4-733-2 radius +0.3
+
+measure center #8 & sidechain & :538  mark true name 28-FGFR1-538-2 radius +0.3
+
+measure center #9 & sidechain & :620  mark true name 28-FGFR2-620-2 radius +0.3
+
+measure center #10 & sidechain & :532  mark true name 28-FGFR3-532-2 radius +0.3
+
+measure center #10 & sidechain & :611  mark true name 28-FGFR3-611-2 radius +0.3
+
+measure center #10 & sidechain & :637  mark true name 28-FGFR3-637-2 radius +0.3
+
+measure center #11 & sidechain & :606  mark true name 28-FGFR4-606-2 radius +0.3
+
+measure center #12 & sidechain & :885  mark true name 28-FLT1-885-2 radius +0.3
+
+measure center #13 & sidechain & :669  mark true name 28-FLT3-669-2 radius +0.3
+
+measure center #14 & sidechain & :1126  mark true name 28-IGF1R-1126-2 radius +0.3
+
+measure center #14 & sidechain & :1128  mark true name 28-IGF1R-1128-2 radius +0.3
+
+measure center #17 & sidechain & :643  mark true name 28-KIT-643-2 radius +0.3
+
+measure center #17 & sidechain & :783  mark true name 28-KIT-783-2 radius +0.3
+
+measure center #17 & sidechain & :786  mark true name 28-KIT-786-2 radius +0.3
+
+measure center #20 & sidechain & :641  mark true name 28-NTRK1-641-2 radius +0.3
+
+measure center #20 & sidechain & :644  mark true name 28-NTRK1-644-2 radius +0.3
+
+measure center #22 & sidechain & :591  mark true name 28-NTRK3-591-2 radius +0.3
+
+measure center #23 & sidechain & :559  mark true name 28-PGFRA-559-2 radius +0.3
+
+measure center #24 & sidechain & :782  mark true name 28-RET-782-2 radius +0.3
+
+measure center #24 & sidechain & :868  mark true name 28-RET-868-2 radius +0.3
+
+measure center #25 & sidechain & :880  mark true name 28-TIE2-880-2 radius +0.3
+
+measure center #25 & sidechain & :881  mark true name 28-TIE2-881-2 radius +0.3
+
+measure center #1 & sidechain & :772  mark true name 28-CSF1R-772-1
+
+measure center #7 & sidechain & :667  mark true name 28-EPHB4-667-1
+
+measure center #7 & sidechain & :672  mark true name 28-EPHB4-672-1
+
+measure center #7 & sidechain & :734  mark true name 28-EPHB4-734-1
+
+measure center #7 & sidechain & :736  mark true name 28-EPHB4-736-1
+
+measure center #8 & sidechain & :534  mark true name 28-FGFR1-534-1
+
+measure center #8 & sidechain & :539  mark true name 28-FGFR1-539-1
+
+measure center #9 & sidechain & :541  mark true name 28-FGFR2-541-1
+
+measure center #9 & sidechain & :619  mark true name 28-FGFR2-619-1
+
+measure center #9 & sidechain & :645  mark true name 28-FGFR2-645-1
+
+measure center #10 & sidechain & :533  mark true name 28-FGFR3-533-1
+
+measure center #10 & sidechain & :608  mark true name 28-FGFR3-608-1
+
+measure center #11 & sidechain & :528  mark true name 28-FGFR4-528-1
+
+measure center #12 & sidechain & :1018  mark true name 28-FLT1-1018-1
+
+measure center #12 & sidechain & :886  mark true name 28-FLT1-886-1
+
+measure center #13 & sidechain & :668  mark true name 28-FLT3-668-1
+
+measure center #13 & sidechain & :670  mark true name 28-FLT3-670-1
+
+measure center #13 & sidechain & :804  mark true name 28-FLT3-804-1
+
+measure center #13 & sidechain & :807  mark true name 28-FLT3-807-1
+
+measure center #14 & sidechain & :1053  mark true name 28-IGF1R-1053-1
+
+measure center #14 & sidechain & :1058  mark true name 28-IGF1R-1058-1
+
+measure center #14 & sidechain & :1154  mark true name 28-IGF1R-1154-1
+
+measure center #14 & sidechain & :1283  mark true name 28-IGF1R-1283-1
+
+measure center #14 & sidechain & :1284  mark true name 28-IGF1R-1284-1
+
+measure center #14 & sidechain & :1285  mark true name 28-IGF1R-1285-1
+
+measure center #15 & sidechain & :1152  mark true name 28-INSR-1152-1
+
+measure center #15 & sidechain & :1308  mark true name 28-INSR-1308-1
+
+measure center #17 & sidechain & :648  mark true name 28-KIT-648-1
+
+measure center #17 & sidechain & :649  mark true name 28-KIT-649-1
+
+measure center #18 & sidechain & :643  mark true name 28-MERTK-643-1
+
+measure center #18 & sidechain & :644  mark true name 28-MERTK-644-1
+
+measure center #20 & sidechain & :567  mark true name 28-NTRK1-567-1
+
+measure center #21 & sidechain & :596  mark true name 28-NTRK2-596-1
+
+measure center #21 & sidechain & :672  mark true name 28-NTRK2-672-1
+
+measure center #22 & sidechain & :672  mark true name 28-NTRK3-672-1
+
+measure center #22 & sidechain & :673  mark true name 28-NTRK3-673-1
+
+measure center #23 & sidechain & :651  mark true name 28-PGFRA-651-1
+
+measure center #23 & sidechain & :653  mark true name 28-PGFRA-653-1
+
+measure center #24 & sidechain & :778  mark true name 28-RET-778-1
+
+measure center #24 & sidechain & :867  mark true name 28-RET-867-1
+
+measure center #25 & sidechain & :957  mark true name 28-TIE2-957-1
+
