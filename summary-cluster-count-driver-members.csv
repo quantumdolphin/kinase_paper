@@ -1,4 +1,4 @@
-clust_xyz,Count,driver_mut,no_of_members,avg_count,max,min
+clust_xyz,Count_sum,driver_mut,no_of_members,avg_count,max,min
 0,277,1,122,2.270491803,37,1
 1,137,0,80,1.7125,6,1
 2,498,4,87,5.724137931,219,1
