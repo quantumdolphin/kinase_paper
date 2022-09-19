@@ -1,3 +1,4 @@
+# works with biotite 0.34.1
 import biotite as bt
 import biotite.database.rcsb as rcsb
 import requests
