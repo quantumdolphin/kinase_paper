@@ -1,0 +1,23 @@
+'''
+takes a list of uniprot ids and resolution cut-off as input
+returns their respective uniprot ids as a dataframe
+'''
+def search_pdb(uniprot_ids, resolution):
+    # Create an empty DataFrame to store the results
+    df = pd.DataFrame(columns=["Uniprot_ID", "PDB_IDs"])
+
+    # Iterate over the input UniProt IDs
+    for uniprot_id in uniprot_ids:
+        # Create the query
+        query1 = rcsb.FieldQuery("rcsb_polymer_entity_container_identifiers.reference_sequence_identifiers.database_accession", exact_match = uniprot_id)
+        query2 = rcsb.FieldQuery("reflns.d_resolution_high", less=resolution)
+        final_query = query1 & query2
+
+        # Search the PDB for structures matching the query
+        pdb_ids = rcsb.search(final_query)
+
+        # Add the search results to the DataFrame
+        new_row = pd.DataFrame({"Uniprot_ID": uniprot_id, "PDB_IDs": [pdb_ids]})
+        df = pd.concat([df, new_row], ignore_index=True)
+
+    return df
