@@ -1,0 +1,51 @@
+'''
+given a uniprot id of a transmem protein, this function will get the start and end residues for the TM region from uniprot using SPARQL endpoint.
+'''
+import pandas as pd
+from SPARQLWrapper import SPARQLWrapper, JSON
+
+def get_tm_regions(uniprot_ids):
+    # Set the SPARQL endpoint URL
+    sparql_endpoint = "http://sparql.uniprot.org//sparql"
+
+    # Create a SPARQL wrapper object
+    sparql = SPARQLWrapper(sparql_endpoint)
+
+    # Set the response format
+    sparql.setReturnFormat(JSON)
+
+    # Initialize an empty list to store the results
+    results = []
+
+    # Iterate over the UniProt IDs
+    for uniprot_id in uniprot_ids:
+        # Define the SPARQL query
+        query = """
+        PREFIX up: <http://purl.uniprot.org/core/>
+        PREFIX faldo: <http://biohackathon.org/resource/faldo#>
+        SELECT ?protein ?begin ?end
+        WHERE 
+        {
+            BIND(<http://purl.uniprot.org/uniprot/%s> AS ?protein)
+            ?protein a up:Protein .
+            ?protein up:annotation ?annotation .
+            ?annotation a up:Transmembrane_Annotation .
+            ?annotation up:range ?range .
+            ?range faldo:begin/faldo:position ?begin .
+            ?range faldo:end/faldo:position ?end
+        }
+        """ % uniprot_id
+
+        # Set the query
+        sparql.setQuery(query)
+
+        # Execute the query
+        response = sparql.query().convert()
+
+        # Extract the start and end coordinates of the transmembrane regions
+        for result in response["results"]["bindings"]:
+            results.append({
+                "Uniprot_ID": uniprot_id,
+                "Start": result["begin"]["value"],
+                "End": result["end"]["value"],
+            })
