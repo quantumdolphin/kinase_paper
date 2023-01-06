@@ -1,0 +1,34 @@
+"""
+get the start and end res no of the kinase domain
+"""
+from SPARQLWrapper import SPARQLWrapper, JSON
+
+def get_domain_extent(uniprot_id):
+    # Set the SPARQL endpoint URL
+    # sparql_endpoint = "http://sparql.uniprot.org"
+    sparql_endpoint = "http://sparql.uniprot.org//sparql"
+    # Create a SPARQL wrapper object
+    sparql = SPARQLWrapper(sparql_endpoint)
+    query = f"""
+    PREFIX up: <http://purl.uniprot.org/core/>
+    PREFIX faldo: <http://biohackathon.org/resource/faldo#>
+    SELECT ?protein ?begin ?end
+    WHERE
+    {{
+    BIND(<http://purl.uniprot.org/uniprot/{uniprot_id}> AS ?protein)
+    ?protein a up:Protein .
+    ?protein up:annotation ?annotation .
+    ?annotation a up:Domain_Extent_Annotation .
+    ?annotation up:range ?range .
+    ?range faldo:begin/faldo:position ?begin .
+    ?range faldo:end/faldo:position ?end
+    }}
+    """
+# Set the query and response format
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+# Execute the query
+    response = sparql.query().convert()
+# Print the transmembrane region start and end coordinates
+    for result in response["results"]["bindings"]:
+        print("Start: %s, End: %s" % (result["begin"]["value"], result["end"]["value"]))
