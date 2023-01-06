@@ -1,0 +1,47 @@
+"""
+go through a directory and scan for pdb with 'filtered' in their basename and count the no of jm residues
+jm residues = starting residue of the kinase region - ending residue of the intramem region
+"""
+import biopandas as bpdb
+from biopandas.pdb import PandasPdb as ppdb
+import pandas as pd
+import glob
+import os
+import numpy as np
+
+##############################
+def count_residues_in_range(df0, start, end):
+    # Extract the alpha carbon atoms
+    alpha_carbons = df0.df['ATOM'][(df0.df['ATOM']['atom_name'] == 'CA')]
+
+    # Select only the rows corresponding to residues within the specified range
+    residue_no_series = alpha_carbons['residue_number']
+    a = residue_no_series.values
+    residues_in_range = alpha_carbons[np.logical_and(start < a, a < end)]
+
+    # Count the number of residues
+    num_residues = residues_in_range.shape[0]
+    
+    # Return the number of residues
+    return num_residues
+################################
+
+cwd = os.getcwd()
+pdb_files = glob.glob(cwd + '/**/*-cleaned*.pdb', recursive=True)
+
+# Get just the file names by removing the file paths
+file_names = [os.path.basename(file) for file in pdb_files]
+
+# print(file_names)
+
+# Create an empty DataFrame to store the results
+df_result = pd.DataFrame(columns=['Filename', 'Num Residues'])
+
+# Loop over the list of PDB files
+for file in file_names:
+# Read in the PDB file using biopandas
+    path_str = './' + file
+#     print(path_str)
+    df0 =ppdb().read_pdb(f'./{file}')
+    num_residues = count_residues_in_range(df0,646,668)
+    print(f'{file} == {num_residues}')
